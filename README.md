@@ -10,29 +10,22 @@ The timeline was also a little tight because I wanted to submit as soon as more 
 
 ## Technical Features:
 ### Top row buttons: 
-Copy
-Paste
-Screenshot
+Copy, Paste, Screenshot
 
 ### Bottom row buttons:
-Switch Window (Alt+Tab)
-Close Tab
+Switch Window (Alt+Tab), Close Tab
 
 ### Rotary Encoder 1:
-Rotate clockwise → Volume Up
-Rotate counterclockwise → Volume Down
-Press encoder → Mute
+Rotate clockwise → Volume Up, Rotate counterclockwise → Volume Down, Press encoder → Mute
 
 ### Rotary Encoder 2:
-Rotate clockwise → Scroll Down (next reel)
-Rotate counterclockwise → Scroll Up (previous reel)
-Press encoder  → Play/Pause 
+Rotate clockwise → Scroll Down, Rotate counterclockwise → Scroll Up, Press encoder  → Play/Pause 
 
 ## CAD model:
 <img width="497" height="298" alt="image" src="https://github.com/user-attachments/assets/65540669-9f04-4e5d-ac60-f9b9c1f0113e" />
 <img width="552" height="129" alt="image" src="https://github.com/user-attachments/assets/4d39f9ab-53ab-4003-a2bd-8dafd021b7fe" />
-<img width="362" height="227" alt="image" src="https://github.com/user-attachments/assets/598599ca-0603-4404-aa6d-c9b34f2c2be0" />
 <img width="505" height="307" alt="image" src="https://github.com/user-attachments/assets/f08bcda4-0d91-499e-b78e-96c6047877b2" />
+<img width="414" height="263" alt="image" src="https://github.com/user-attachments/assets/17027614-247d-44b3-b17c-16c649ef8c41" />
 
 ## Schematic:
 <img width="676" height="404" alt="image" src="https://github.com/user-attachments/assets/3abc07bc-b31f-4b88-9459-4673c1abdd5f" />
@@ -50,4 +43,3 @@ Press encoder  → Play/Pause
 | 5 | DSA keycaps | White, blank |
 | 6 | M3 x 16mm screws | |
 | 6 | M3 x 5mm x 4mm heatset inserts | |
-<img width="414" height="263" alt="image" src="https://github.com/user-attachments/assets/17027614-247d-44b3-b17c-16c649ef8c41" />
